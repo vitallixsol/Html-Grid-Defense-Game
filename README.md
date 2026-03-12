@@ -23,8 +23,8 @@ remember you.
 Clone the repository and run the game locally.
 
 ``` bash
-git clone https://github.com/yourusername/tower-defense-game
-cd tower-defense-game
+git clone https://github.com/vitallixsol/Html-Grid-Defense-Game.git
+cd Html-Grid-Defense-Game
 ```
 
 Then open:
